@@ -7,6 +7,11 @@ I am a software developer motivated my a desire for continuous learning, problem
 
 -📫 How to reach me: andrewowyang875@gmail.com
 
+##Stack
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
+
 ## Let's Connect
 
 <a href="https://www.linkedin.com/in/andrew-owyang/">
