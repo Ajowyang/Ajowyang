@@ -5,7 +5,10 @@ I'm Andrew, a Software Developer in Irvine, CA!
 
 I am a software developer motivated my a desire for continuous learning, problem solving, and driving innovation! Having worked as a dance instructor and math tutor while attending Santa Barbara Community college, I developed an interest in how logic and creativity could be used to make lives easier, and solve real world problems. I'm also looking to grow my network in the engineering space and connect with others passionate about curating impact solutions through coding initiatives!
 
-📫 How to reach me: andrewowyang875@gmail.com
+-📫 How to reach me: andrewowyang875@gmail.com
+
+##Let's Connect
+
 
 
 <!--
