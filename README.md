@@ -9,7 +9,9 @@ I am a software developer motivated my a desire for continuous learning, problem
 
 ## Let's Connect
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" onclick="window.location='https://www.linkedin.com/in/andrew-owyang/';">
+<a href="https://www.linkedin.com/in/andrew-owyang/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 
 <!--
