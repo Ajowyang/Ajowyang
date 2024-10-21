@@ -3,7 +3,7 @@
 
 I'm Andrew, a Software Developer in Irvine, CA!
 
-I am a software developer motivated by a desire for continuous learning, problem solving, and driving innovation! Having worked as a dance instructor and math tutor while attending college, I developed an interest in how logic and creativity could be used to make lives easier, and solve real world problems.  When I'm not coding I like to dance and play basketball. I'm also looking to grow my network in the engineering space and connect with others passionate about curating impact solutions through coding initiatives!
+I am a software developer motivated by a desire for continuous learning, problem solving, and driving innovation! Having worked as a dance instructor and math tutor while attending college, I developed an interest in how both logic and creativity could be used to make lives easier, and solve real world problems.  When I'm not coding I like to dance and play basketball. I'm also looking to grow my network in the engineering space and connect with others passionate about curating impact solutions through coding initiatives!
 
 📫 How to reach me: andrewowyang875@gmail.com
 
